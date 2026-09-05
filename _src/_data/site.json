@@ -1,0 +1,20 @@
+{
+  "name": "Blackboard Ultra Know",
+  "description": "Blackboard Ultra Knowledge base",
+  "url": "",
+  "author": "Glenn Evans",
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "About",
+      "url": "/about/"
+    },
+    {
+      "label": "Contact",
+      "url": "/contact/"
+    }
+  ]
+}
