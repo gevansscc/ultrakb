@@ -1,0 +1,12 @@
+{
+  "name": "eleventy-starter",
+  "version": "1.0.0",
+  "description": "Reusable Eleventy starter framework",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
